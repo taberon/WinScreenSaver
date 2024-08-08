@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSaver", "DemoSaver.csproj", "{8C5E7238-2DCA-4261-A268-FD5E8DA68C44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C5E7238-2DCA-4261-A268-FD5E8DA68C44}.Debug|x86.ActiveCfg = Debug|x86
+		{8C5E7238-2DCA-4261-A268-FD5E8DA68C44}.Debug|x86.Build.0 = Debug|x86
+		{8C5E7238-2DCA-4261-A268-FD5E8DA68C44}.Release|x86.ActiveCfg = Release|x86
+		{8C5E7238-2DCA-4261-A268-FD5E8DA68C44}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0190F3B4-DC7E-48B6-9FB2-B7997D13C270}
+	EndGlobalSection
+EndGlobal
